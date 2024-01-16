@@ -1,0 +1,13 @@
+.aboutHeader{
+    background-image: linear-gradient(to right, #a5181800 0%, #610e0e8a 100%),
+        url('../../image/aboutMainImage.jpg');
+    height: 1100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgba(21, 33, 21, 0.722);
+    background-position: 0px;
+    color: #fff;
+    padding: 20px 0;
+    
+}

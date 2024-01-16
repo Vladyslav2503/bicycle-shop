@@ -1,0 +1,70 @@
+.aboutHeader{
+    background-image: linear-gradient(to right, #a5181800 0%, #610e0e8a 100%),
+        url('../../image/aboutMainImage.jpg');
+    height: 1100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgba(21, 33, 21, 0.722);
+    background-position: 0px;
+    color: #fff;
+    padding: 20px 0;
+    
+}
+
+.leftPanel{
+    min-width: 300px;
+    height: 1038px;
+    text-align: center;
+    color: #FFFFFF;
+    border: 1px solid white;
+    border-left: none;
+}
+
+.textinput {
+    width: 100px;
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    background: #FFFFFF;
+    line-height: 0px;
+    border: 1px solid #E3E3E3;
+    box-sizing: border-box;
+    vertical-align: top;
+    transition: 0.2s;
+    cursor: text;
+    margin-left: 10px;
+}
+
+.price{
+    display: flex;
+    margin-left: 36px;
+}
+
+.priceheader{
+    margin-bottom: 10px;
+    position: relative;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: 900;
+}
+
+.forwhom{
+    margin-top: 20px;
+    margin-left: 100px;
+    text-align:left;
+}
+
+.checkbox{
+    width: 14px;
+    height: 14px;
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+}
+
+.allPanel{
+    display: flex;
+    height: 1100px;
+}
